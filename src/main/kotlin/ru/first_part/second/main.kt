@@ -1,4 +1,4 @@
-package ru.lemoncat.second
+package ru.first_part.second
 
 // Класс с закрытым конструктором
 class Logger private constructor() {

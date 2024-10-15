@@ -1,4 +1,4 @@
-package ru.lemoncat.first
+package ru.first_part.first
 
 import kotlin.math.PI
 import kotlin.math.sqrt

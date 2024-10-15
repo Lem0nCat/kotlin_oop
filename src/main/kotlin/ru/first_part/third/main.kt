@@ -1,4 +1,4 @@
-package ru.lemoncat.third
+package ru.first_part.third
 
 // Изолированный класс Result с двумя подклассами Success и Error
 sealed class Result {
